@@ -1,5 +1,5 @@
 // Change this line (remove the 'default' style import)
-import imglyRemoveBackground from "@imgly/background-removal"; 
+
 
 // To this (use the named export):
 import { removeBackground } from "@imgly/background-removal";
